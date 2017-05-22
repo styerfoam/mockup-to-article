@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+    * These areas have mostly been a refresher
+  * What has been easy?
+    * Most of it has been as its a refresher
+  * What has been difficult?
+    * I have lost my muscle memory and some additions have been made since I last studied HTML.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+    * Interesting question.  I don't recall how I did that exactly.  I am learning to try and see which tests fail and reassess. 
+
+---
+
+Your response goes here!
+
+* What new skills have you learned?
+  * These areas have mostly been a refresher
+* What has been easy?
+  * Most of it has been as its a refresher
+* What has been difficult?
+  * I have lost my muscle memory and some additions have been made since I last studied HTML.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+  *
